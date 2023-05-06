@@ -1,0 +1,14 @@
+1. Download the files
+2. Keep the files in the same folder(Be sure that the words.txt or other text file is also in the same folder)
+3. Run the Main.java and the program will run.
+
+If you want to change the amount of the guesses or to a different file with guessable words:
+Change the number 5 to other number from this line(Main.java).
+Hangman hangman = new Hangman(words, 5);
+Change the text file name to other files name:
+WordList words = new WordList("words.txt");
+Note that the words have to be in different lines so the program will work properly.
+Example:
+wordone
+wordtwo
+wordthree
