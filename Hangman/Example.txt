@@ -1,0 +1,108 @@
+Example 1:
+The hidden word... 
+
+****
+
+Guesses left: 5
+Guessed letters: []
+Guess a letter:
+j
+The hidden word... 
+
+j***
+
+Guesses left: 5
+Guessed letters: [j]
+Guess a letter:
+e
+The hidden word... 
+
+j***
+
+Guesses left: 4
+Guessed letters: [j, e]
+Guess a letter:
+v
+The hidden word... 
+
+j*v*
+
+Guesses left: 4
+Guessed letters: [j, e, v]
+Guess a letter:
+i
+The hidden word... 
+
+j*v*
+
+Guesses left: 3
+Guessed letters: [j, e, v, i]
+Guess a letter:
+s
+The hidden word... 
+
+j*v*
+
+Guesses left: 2
+Guessed letters: [j, e, v, i, s]
+Guess a letter:
+a
+Congratulations, you won the game and guessed the word correctly, the word was java
+Example 2:
+The hidden word... 
+
+******
+
+Guesses left: 5
+Guessed letters: []
+Guess a letter:
+s
+The hidden word... 
+
+******
+
+Guesses left: 4
+Guessed letters: [s]
+Guess a letter:
+p
+The hidden word... 
+
+p*****
+
+Guesses left: 4
+Guessed letters: [s, p]
+Guess a letter:
+s
+The hidden word... 
+
+p*****
+
+Guesses left: 3
+Guessed letters: [s, p]
+Guess a letter:
+a
+The hidden word... 
+
+p*****
+
+Guesses left: 2
+Guessed letters: [s, p, a]
+Guess a letter:
+g
+The hidden word... 
+
+p*****
+
+Guesses left: 1
+Guessed letters: [s, p, a, g]
+Guess a letter:
+h
+The hidden word... 
+
+p**h**
+
+Guesses left: 1
+Guessed letters: [s, p, a, g, h]
+Guess a letter:
+a
+You lost the game, correct word was python
