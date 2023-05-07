@@ -36,7 +36,7 @@ public class AssistantTeacher extends Employee implements Teacher, Payment{
         sb.append("Birthdate: ").append(getBirthDate()).append("\n");
         sb.append("Salary: ").append(String.format("%.2f", calculatePayment())).append("\n");
         sb.append("Assistant for courses:").append("\n");
-        sb.append(getCourses());
+        sb.append(getCourses()).append("\n");
         return sb.toString();
     }
 }
