@@ -1,0 +1,57 @@
+Teacher id: OY_TEACHER_2955
+First name: Mouse, Last name: Mickey
+Birthdate: 23.04.1998
+Salary: 756.85
+Teacher for courses:
+Teacher:[course=[Not available (50.50cr), "More basic studies". Mandatory, period: 1.], year=2023]
+Teacher:[course=[Not available (50.00cr), "Even more basic studies". Optional, period: 3.], year=2023]
+Teacher:[course=[666666S ( 8.00cr), "Extra master studies". Optional, period: 5.], year=2023]
+Teacher:[course=[888888S (18.00cr), "Final master studies". Mandatory, period: 5.], year=2023]
+
+Teacher id: OY_ASSISTANT_2470
+First name: The Dog, Last name: Goofy
+Birthdate: 14.12.2000
+Salary: 38.50
+Assistant for courses:
+[course=[Not available (50.50cr), "More basic studies". Mandatory, period: 1.], year=2023]
+[course=[Not available (50.00cr), "Even more basic studies". Optional, period: 3.], year=2023]
+[course=[666666S ( 8.00cr), "Extra master studies". Optional, period: 5.], year=2023]
+[course=[888888S (18.00cr), "Final master studies". Mandatory, period: 5.], year=2023]
+
+
+Student id:87
+First Name: Duck, Last Name: Donald
+Date of birth: Not available
+Status: The student has not graduated, yet.
+
+Start year: 2001 (studies have lasted for 22 years)
+Total Credits: 0.0 [GPA = NaN)
+Bachelor credits: 0.0
+Missing bachelor credits 180.0 (0.0/180)
+Missing mandatory bachelor credits 150.0 (0.0/150)
+GPA of Bachelor studies: NaN
+Title of BSc Thesis: "No title"
+Master credits: 0.0
+Missing master's credits 120.0 (0.0/120)
+Missing mandatory master's credits 50.0 (0.0/50)
+GPA of Master studies: NaN
+Title of MSc Thesis: "No title"
+
+23.04.1998
+Student id:87
+First Name: Duck, Last Name: Donald
+Date of birth: 23.04.1998
+Status: The student has not graduated, yet.
+
+Start year: 2001 (studies have lasted for 22 years)
+Total Credits: 324.0 [GPA = 2.00)
+Bachelor credits: 201.0
+Total bachelor credits completed (201.0/180)
+All mandatory bachelor credits completed (201.0/150)
+GPA of Bachelor studies: 2.40
+Title of BSc Thesis: "Bachelor thesis title"
+Master credits: 123.0
+Total master's credits completed (123.0/120)
+All mandatory master credits completed (123.0/50)
+GPA of Master studies: 1.50
+Title of MSc Thesis: "Master thesis title"
