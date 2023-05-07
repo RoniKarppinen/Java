@@ -34,7 +34,7 @@ public class ResponsibleTeacher extends Employee implements Teacher, Payment {
                 resultstring.append("Teacher:");
             }
             resultstring.append(course.toString());
-            resultstring.append("/n");
+            resultstring.append("\n");
         }
         return resultstring.toString();
     }
