@@ -1,0 +1,2 @@
+1. Download all the files
+2. Run the main.java file, it should print the example.txt
